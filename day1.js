@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
  PART A: BASIC LOGIC
  */
@@ -256,5 +255,5 @@ console.log(evenn);
 const Sum = newArr.reduce(function(acc,n){
     return acc+n;
 },0);
->>>>>>> 25acfe58bb7576756cf70113237f3b86032392e6
+
 console.log(Sum);
